@@ -1,0 +1,6 @@
+C:\GitHub\EMBORNAS_M2_FINAL\backend\ProjectDB\bin\Debug\ProjectDB.dacpac
+C:\GitHub\EMBORNAS_M2_FINAL\backend\ProjectDB\obj\Debug\ProjectDB.sqlproj.AssemblyReference.cache
+C:\GitHub\EMBORNAS_M2_FINAL\backend\ProjectDB\obj\Debug\M1ProjectDatabase.dll
+C:\GitHub\EMBORNAS_M2_FINAL\backend\ProjectDB\obj\Debug\M1ProjectDatabase.pdb
+C:\GitHub\EMBORNAS_M2_FINAL\backend\ProjectDB\bin\Debug\M1ProjectDatabase.dll
+C:\GitHub\EMBORNAS_M2_FINAL\backend\ProjectDB\bin\Debug\M1ProjectDatabase.pdb

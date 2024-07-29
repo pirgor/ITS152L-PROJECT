@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\EmbornasM1Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55800F9F-E5BD-4E57-B36A-76F99D173171}|EmbornasM1Project\\ProjectAPI.csproj|c:\\github\\embornasm1project\\embornasm1project\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55800F9F-E5BD-4E57-B36A-76F99D173171}|EmbornasM1Project\\ProjectAPI.csproj|solutionrelative:embornasm1project\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CA9893-88F2-4D02-A48E-A2B7810B5EAD}|M1-Partial-Library\\M1-Partial-Library.csproj|c:\\github\\embornasm1project\\m1-partial-library\\m1-partial-library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55CA9893-88F2-4D02-A48E-A2B7810B5EAD}|M1-Partial-Library\\M1-Partial-Library.csproj|solutionrelative:m1-partial-library\\m1-partial-library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD4FC3-6F10-42C7-9B2E-56C53F867713}|InventoryManagerApp\\InventoryManagerApp.csproj|c:\\github\\embornasm1project\\inventorymanagerapp\\inventorymanagerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43AD4FC3-6F10-42C7-9B2E-56C53F867713}|InventoryManagerApp\\InventoryManagerApp.csproj|solutionrelative:inventorymanagerapp\\inventorymanagerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD4FC3-6F10-42C7-9B2E-56C53F867713}|InventoryManagerApp\\InventoryManagerApp.csproj|c:\\github\\embornasm1project\\inventorymanagerapp\\inventorymanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AD4FC3-6F10-42C7-9B2E-56C53F867713}|InventoryManagerApp\\InventoryManagerApp.csproj|solutionrelative:inventorymanagerapp\\inventorymanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD4FC3-6F10-42C7-9B2E-56C53F867713}|InventoryManagerApp\\InventoryManagerApp.csproj|c:\\github\\embornasm1project\\inventorymanagerapp\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AD4FC3-6F10-42C7-9B2E-56C53F867713}|InventoryManagerApp\\InventoryManagerApp.csproj|solutionrelative:inventorymanagerapp\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD4FC3-6F10-42C7-9B2E-56C53F867713}|InventoryManagerApp\\InventoryManagerApp.csproj|C:\\GitHub\\EmbornasM1Project\\inventorymanagerapp\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43AD4FC3-6F10-42C7-9B2E-56C53F867713}|InventoryManagerApp\\InventoryManagerApp.csproj|solutionrelative:inventorymanagerapp\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD4FC3-6F10-42C7-9B2E-56C53F867713}|InventoryManagerApp\\InventoryManagerApp.csproj|c:\\github\\embornasm1project\\inventorymanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AD4FC3-6F10-42C7-9B2E-56C53F867713}|InventoryManagerApp\\InventoryManagerApp.csproj|solutionrelative:inventorymanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55800F9F-E5BD-4E57-B36A-76F99D173171}|EmbornasM1Project\\ProjectAPI.csproj|c:\\github\\embornasm1project\\embornasm1project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55800F9F-E5BD-4E57-B36A-76F99D173171}|EmbornasM1Project\\ProjectAPI.csproj|solutionrelative:embornasm1project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CA9893-88F2-4D02-A48E-A2B7810B5EAD}|M1-Partial-Library\\M1-Partial-Library.csproj|c:\\github\\embornasm1project\\m1-partial-library\\objects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CA9893-88F2-4D02-A48E-A2B7810B5EAD}|M1-Partial-Library\\M1-Partial-Library.csproj|solutionrelative:m1-partial-library\\objects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CA9893-88F2-4D02-A48E-A2B7810B5EAD}|M1-Partial-Library\\M1-Partial-Library.csproj|c:\\github\\embornasm1project\\m1-partial-library\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CA9893-88F2-4D02-A48E-A2B7810B5EAD}|M1-Partial-Library\\M1-Partial-Library.csproj|solutionrelative:m1-partial-library\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CA9893-88F2-4D02-A48E-A2B7810B5EAD}|M1-Partial-Library\\M1-Partial-Library.csproj|c:\\github\\embornasm1project\\m1-partial-library\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CA9893-88F2-4D02-A48E-A2B7810B5EAD}|M1-Partial-Library\\M1-Partial-Library.csproj|solutionrelative:m1-partial-library\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CA9893-88F2-4D02-A48E-A2B7810B5EAD}|M1-Partial-Library\\M1-Partial-Library.csproj|c:\\github\\embornasm1project\\m1-partial-library\\data\\isqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CA9893-88F2-4D02-A48E-A2B7810B5EAD}|M1-Partial-Library\\M1-Partial-Library.csproj|solutionrelative:m1-partial-library\\data\\isqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55800F9F-E5BD-4E57-B36A-76F99D173171}|EmbornasM1Project\\ProjectAPI.csproj|c:\\github\\embornasm1project\\embornasm1project\\embornasm1project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{55800F9F-E5BD-4E57-B36A-76F99D173171}|EmbornasM1Project\\ProjectAPI.csproj|solutionrelative:embornasm1project\\embornasm1project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 263,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryManager.Designer.cs",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\InventoryManagerApp\\InventoryManager.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagerApp\\InventoryManager.Designer.cs",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\InventoryManagerApp\\InventoryManager.Designer.cs",
+              "RelativeToolTip": "InventoryManagerApp\\InventoryManager.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T02:58:31.663Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\InventoryManagerApp\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagerApp\\Program.cs",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\InventoryManagerApp\\Program.cs",
+              "RelativeToolTip": "InventoryManagerApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:53:28.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryManagerApp.csproj",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\InventoryManagerApp\\InventoryManagerApp.csproj",
+              "RelativeDocumentMoniker": "InventoryManagerApp\\InventoryManagerApp.csproj",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\InventoryManagerApp\\InventoryManagerApp.csproj",
+              "RelativeToolTip": "InventoryManagerApp\\InventoryManagerApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T03:17:38.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\EmbornasM1Project\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "EmbornasM1Project\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\EmbornasM1Project\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "EmbornasM1Project\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T02:56:01.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryManager.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\InventoryManagerApp\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "InventoryManagerApp\\InventoryManager.cs",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\InventoryManagerApp\\InventoryManager.cs [Design]",
+              "RelativeToolTip": "InventoryManagerApp\\InventoryManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:05:32.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\InventoryManagerApp\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "InventoryManagerApp\\InventoryManager.cs",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\InventoryManagerApp\\InventoryManager.cs",
+              "RelativeToolTip": "InventoryManagerApp\\InventoryManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwDgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:05:02.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M1-Partial-Library.csproj",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\M1-Partial-Library\\M1-Partial-Library.csproj",
+              "RelativeDocumentMoniker": "M1-Partial-Library\\M1-Partial-Library.csproj",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\M1-Partial-Library\\M1-Partial-Library.csproj",
+              "RelativeToolTip": "M1-Partial-Library\\M1-Partial-Library.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T03:19:49.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\M1-Partial-Library\\Objects\\Item.cs",
+              "RelativeDocumentMoniker": "M1-Partial-Library\\Objects\\Item.cs",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\M1-Partial-Library\\Objects\\Item.cs",
+              "RelativeToolTip": "M1-Partial-Library\\Objects\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:21:15.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\M1-Partial-Library\\DataAccess\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "M1-Partial-Library\\DataAccess\\SqlDataAccess.cs",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\M1-Partial-Library\\DataAccess\\SqlDataAccess.cs",
+              "RelativeToolTip": "M1-Partial-Library\\DataAccess\\SqlDataAccess.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:08:14.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SqlData.cs",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\M1-Partial-Library\\Data\\SqlData.cs",
+              "RelativeDocumentMoniker": "M1-Partial-Library\\Data\\SqlData.cs",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\M1-Partial-Library\\Data\\SqlData.cs",
+              "RelativeToolTip": "M1-Partial-Library\\Data\\SqlData.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:08:29.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISqlData.cs",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\M1-Partial-Library\\Data\\ISqlData.cs",
+              "RelativeDocumentMoniker": "M1-Partial-Library\\Data\\ISqlData.cs",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\M1-Partial-Library\\Data\\ISqlData.cs",
+              "RelativeToolTip": "M1-Partial-Library\\Data\\ISqlData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:09:01.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\EmbornasM1Project\\Program.cs",
+              "RelativeDocumentMoniker": "EmbornasM1Project\\Program.cs",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\EmbornasM1Project\\Program.cs",
+              "RelativeToolTip": "EmbornasM1Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:22:40.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmbornasM1Project.http",
+              "DocumentMoniker": "C:\\GitHub\\EmbornasM1Project\\EmbornasM1Project\\EmbornasM1Project.http",
+              "RelativeDocumentMoniker": "EmbornasM1Project\\EmbornasM1Project.http",
+              "ToolTip": "C:\\GitHub\\EmbornasM1Project\\EmbornasM1Project\\EmbornasM1Project.http",
+              "RelativeToolTip": "EmbornasM1Project\\EmbornasM1Project.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-25T03:23:33.247Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(../get-inventory/bg.jpg);
+    text-align: center;
+}
+
+.box table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    border: 1px solid #333;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    width: 800px;
+    margin-bottom: 10px;
+}
+
+.content-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+button{
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
+.button-group {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.button-group button {
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
+
+.button-group button:hover {
+    background-color: #555;
+}
+
+form {
+    flex: 1;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.panel {
+    flex: 1;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.panel-btn:hover {
+    background-color: #0056b3;
+}
+
+h3 {
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+}

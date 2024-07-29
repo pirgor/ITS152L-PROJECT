@@ -1,0 +1,12 @@
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\bin\Debug\net8.0\M1ProjectLibrary.deps.json
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\bin\Debug\net8.0\M1ProjectLibrary.dll
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\bin\Debug\net8.0\M1ProjectLibrary.pdb
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\obj\Debug\net8.0\M1ProjectLibrary.csproj.AssemblyReference.cache
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\obj\Debug\net8.0\M1ProjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\obj\Debug\net8.0\M1ProjectLibrary.AssemblyInfoInputs.cache
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\obj\Debug\net8.0\M1ProjectLibrary.AssemblyInfo.cs
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\obj\Debug\net8.0\M1ProjectLibrary.csproj.CoreCompileInputs.cache
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\obj\Debug\net8.0\M1ProjectLibrary.dll
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\obj\Debug\net8.0\refint\M1ProjectLibrary.dll
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\obj\Debug\net8.0\M1ProjectLibrary.pdb
+C:\GitHub\EmbornasM1Project\M1-Partial-Library\obj\Debug\net8.0\ref\M1ProjectLibrary.dll

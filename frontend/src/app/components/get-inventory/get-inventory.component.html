@@ -1,0 +1,69 @@
+<main class="main">
+    <div class="box">
+        <div class="content-row">
+            <div class="button-group">
+                <button (click)="initData()">Load</button>
+                <button (click)="initData()">Add Item</button>
+                <button type="button" (click)="updateItem()" class="panel-btn">Update</button>
+                <button type="button" (click)="deleteProductById(findbyId.valueAsNumber)">Delete</button>
+                <input type="number" placeholder="Enter ID" #findbyId>
+                <button (click)="getProductById(findbyId.valueAsNumber)">Find</button>
+            </div>
+            <form #itemForm="ngForm" (ngSubmit)="addItem()">
+                <div class="panel panel-primary">
+                    <div class="panel-heading" style="background-color: black;">
+                        <h3 class="panel-title" style="background-color: black;">Item Information</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div class="form-group">
+                            <label for="itemName">Name</label>
+                            <input id="itemName" name="itName" [(ngModel)]="item.name" type="text" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <label for="itemCode">Code</label>
+                            <input id="itemCode" name="itCode" [(ngModel)]="item.code" type="text" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <label for="itemBrand">Brand</label>
+                            <input id="itemBrand" name="itBrand" [(ngModel)]="item.brand" type="text"
+                                class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <label for="itemPrice">Unit Price</label>
+                            <input id="itemPrice" name="itPrice" [(ngModel)]="item.unitPrice" type="number"
+                                class="form-control" placeholder=" ">
+                        </div>
+                    </div>
+                    <div class="panel-footer">
+                        <button type="submit" class="panel-btn">Save</button>
+                        <button type="reset" class="panel-btn">Reset</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="box">
+        <h3>Inventory Items</h3>
+        <table *ngIf="items && items.length > 0" border="5">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Code</th>
+                    <th>Brand</th>
+                    <th>Unit Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of items">
+                    <td>{{ item.id }}</td>
+                    <td>{{ item.name }}</td>
+                    <td>{{ item.code }}</td>
+                    <td>{{ item.brand }}</td>
+                    <td>{{ item.unitPrice }}</td>
+                </tr>
+            </tbody>
+        </table>
+        <p *ngIf="!items || items.length === 0">No items available.</p>
+    </div>
+</main>
